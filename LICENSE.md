@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) c3n7-learning <kartimothy@gmail.com>
+Copyright (c) :vendor_name <author@domain.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

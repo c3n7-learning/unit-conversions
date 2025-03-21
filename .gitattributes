@@ -13,5 +13,3 @@
 /art export-ignore
 /docs export-ignore
 /UPGRADING.md export-ignore
-
-# This defines the files that uses should not get when they install our package
