@@ -2,8 +2,6 @@
 
 namespace C3N7Learning\UnitConversions;
 
-use Exception;
-
 class Weight
 {
     public static function kilograms(float $kilograms): self
