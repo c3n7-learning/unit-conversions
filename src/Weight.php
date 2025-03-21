@@ -1,6 +1,6 @@
 <?php
 
-namespace C3N7Learning\UnitConversions;
+namespace Tefabi\UnitConversions;
 
 class Weight
 {

@@ -1,8 +1,8 @@
 {
-    "name": "c3n7-learning/unit-conversions",
+    "name": "tefabi/unit-conversions",
     "description": "This is my package for unit conversions",
     "keywords": [
-        "c3n7-learning",
+        "tefabi",
         "unit-conversions"
     ],
     "homepage": "https://github.com/c3n7-learning/unit-conversions",
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "C3N7Learning\\UnitConversions\\": "src"
+            "Tefabi\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "C3N7Learning\\UnitConversions\\Tests\\": "tests"
+            "Tefabi\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {

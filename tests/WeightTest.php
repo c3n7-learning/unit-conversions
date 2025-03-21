@@ -1,6 +1,6 @@
 <?php
 
-use C3N7Learning\UnitConversions\Weight;
+use Tefabi\UnitConversions\Weight;
 
 it('can convert kilograms to pounds', function () {
     $pounds = Weight::kilograms(100)->toPounds();
