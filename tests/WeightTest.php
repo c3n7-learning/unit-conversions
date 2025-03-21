@@ -13,3 +13,9 @@ it('can convert kilograms to stones', function () {
 
     expect($pounds)->toEqual(0.15747 * 100);
 });
+
+it('can convert kilograms to calories', function () {
+    $pounds = Weight::kilograms(100)->toCalories();
+
+    expect($pounds)->toEqual(7716.179176 * 100);
+});
