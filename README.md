@@ -1,8 +1,8 @@
-# :package_description
+# This is my package for unit conversions"
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![Tests](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/:vendor_slug/:package_slug/actions/workflows/run-tests.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/c3n7-learning/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/c3n7-learning/unit-conversions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/c3n7-learning/unit-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/c3n7-learning/unit-conversions/actions/workflows/run-tests.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/c3n7-learning/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/c3n7-learning/unit-conversions)
 
 <!--delete-->
 
@@ -11,14 +11,14 @@
 You can install the package via composer:
 
 ```bash
-composer require :vendor_slug/:package_slug
+composer require c3n7-learning/unit-conversions
 ```
 
 ## Usage
 
 ```php
-$skeleton = new VendorName\Skeleton();
-echo $skeleton->echoPhrase('Hello, VendorName!');
+$skeleton = new C3N7Learning\UnitConversions();
+echo $skeleton->echoPhrase('Hello, C3N7Learning!');
 ```
 
 ## Testing
@@ -41,7 +41,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
--   [:author_name](https://github.com/:author_username)
+-   [Timothy Karani](https://github.com/c3n7-learning)
 -   [All Contributors](../../contributors)
 
 ## License
